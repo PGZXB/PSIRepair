@@ -1,4 +1,8 @@
-# PSIRepair
+# PSIRepair (Task-Aware Project-Specific Information Selection for LLM-Based Automated Program Repair)
+
+## Overview of PSIRepair
+
+![The overview of PSIRepair](./overview.png)
 
 ## Preparation
 
